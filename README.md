@@ -8,7 +8,7 @@ Setup Instructions  :
 To run the app locally, follow these steps:
 
 1.Clone the repository:
-                            * git clone https://github.com/your-username/quiz-challenge-app.git
+                            * https://github.com/Sujay149/Quiz-Assignment.git
 2.Install dependencies:
                             * Navigate to the project directory and install the required dependencies:
   cd quiz-challenge-app
